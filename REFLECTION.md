@@ -19,7 +19,7 @@ Portfolio 1
 
 | Project | GitHub repository | Live website |
 |---|---|---|
-| Rainydays (Cross Course Project) | https://github.com/Runeov/HTML-CSS-Course-Assignment | [live link] |
+| Rainydays (Cross Course Project) | https://github.com/Runeov/HTML-CSS-Course-Assignment | https://magical-genie-a5c987.netlify.app/ |
 | Semester Project 1 (Hiking) | https://github.com/Runeov/Hiking-project-new | https://guileless-salmiakki-0c085e.netlify.app/ |
 | NorgeTravel | https://github.com/Runeov/norgetravel | https://norgetravel.com |
 
