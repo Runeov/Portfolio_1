@@ -20,7 +20,7 @@ Portfolio 1
 | Project | GitHub repository | Live website |
 |---|---|---|
 | Rainydays (Cross Course Project) | https://github.com/Runeov/HTML-CSS-Course-Assignment | [live link] |
-| Semester Project 1 (Hiking) | https://github.com/Runeov/Hiking-project-new | [live link] |
+| Semester Project 1 (Hiking) | https://github.com/Runeov/Hiking-project-new | https://guileless-salmiakki-0c085e.netlify.app/ |
 | NorgeTravel | https://github.com/Runeov/norgetravel | https://norgetravel.com |
 
 > **⚠️ Check before submitting:** The assignment requires the third project to be your
