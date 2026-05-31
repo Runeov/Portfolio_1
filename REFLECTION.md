@@ -1,6 +1,6 @@
 # Portfolio 1 — Reflection Report
 
-**Rune Øvstegård**
+**Per Rune Overelv**
 Frontend Development — Noroff
 Portfolio 1
 
@@ -14,7 +14,7 @@ Portfolio 1
 
 ## All links
 
-- **Portfolio website (live):** [https://_____.vercel.app]( )
+- **Portfolio website (live):** https://comfy-stardust-d1542b.netlify.app/
 - **Personal GitHub profile (public):** https://github.com/Runeov
 
 | Project | GitHub repository | Live website |
@@ -81,15 +81,7 @@ adventures, built with Next.js, TypeScript, and Tailwind CSS.
 **Reflection:** This project stretched me beyond plain HTML/CSS into a component-based
 framework, TypeScript, and SEO/structured data — showing how much more maintainable a
 larger site becomes with reusable components and typed code.
-
-> **⚠️ Assignment check:** The brief requires the third project to be your graded **Exam
-> Project 1**. NorgeTravel is a separate personal project, so confirm with your teacher
-> that showcasing it here is acceptable — otherwise swap in your actual Exam Project 1.
-
-**Things I would improve (self-assessment + feedback):**
-- [Add a concrete improvement — e.g. accessibility audit, Lighthouse performance pass.]
-- [Concrete improvement #2.]
-- [Concrete improvement #3.]
+.
 
 ---
 
