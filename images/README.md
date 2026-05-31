@@ -7,7 +7,7 @@ Drop the three project screenshots in this folder with these **exact** filenames
 |---|---|
 | `rainydays.jpg` | Rainydays (Cross Course Project) |
 | `hiking-project.jpg` | Hiking Project (Semester Project 1) |
-| `project-exam-1.jpg` | Project Exam 1 |
+| `norgetravel.jpg` | NorgeTravel |
 
 ## Assignment requirements for each thumbnail
 

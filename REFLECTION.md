@@ -21,11 +21,12 @@ Portfolio 1
 |---|---|---|
 | Rainydays (Cross Course Project) | https://github.com/Runeov/HTML-CSS-Course-Assignment | [live link] |
 | Semester Project 1 (Hiking) | https://github.com/Runeov/Hiking-project-new | [live link] |
-| Exam Project 1 | [repo link — see note below] | [live link] |
+| NorgeTravel | https://github.com/Runeov/norgetravel | https://norgetravel.com |
 
-> **Note:** Exam Project 1 needs its **own** repository and live link. The card on the
-> site currently points to the Hiking repo as a placeholder — replace it with the real
-> Project Exam 1 repo before submitting.
+> **⚠️ Check before submitting:** The assignment requires the third project to be your
+> graded **Exam Project 1**. NorgeTravel (a Next.js travel site) is shown in that slot —
+> confirm with your teacher that this is acceptable, or swap in your actual graded Exam
+> Project 1.
 
 ---
 
@@ -72,19 +73,21 @@ behaviour across screen sizes, and reuse components instead of repeating code.
 
 ---
 
-## 3. Exam Project 1
+## 3. NorgeTravel
 
-**What it is:** My first exam project, combining responsive design, semantic HTML, and a
-clean CSS architecture into one complete, deployable site.
+**What it is:** A travel platform guiding visitors to Norway's Northern Lights and Arctic
+adventures, built with Next.js, TypeScript, and Tailwind CSS.
 
-**Reflection:** This brought my earlier skills together into one finished, deployable
-project and showed me how much a clear plan up front saves time later.
+**Reflection:** This project stretched me beyond plain HTML/CSS into a component-based
+framework, TypeScript, and SEO/structured data — showing how much more maintainable a
+larger site becomes with reusable components and typed code.
 
-> Reminder: the assignment says not to change the Exam Project 1 submission other than the
-> `README.md`, since it may still be getting marked.
+> **⚠️ Assignment check:** The brief requires the third project to be your graded **Exam
+> Project 1**. NorgeTravel is a separate personal project, so confirm with your teacher
+> that showcasing it here is acceptable — otherwise swap in your actual Exam Project 1.
 
 **Things I would improve (self-assessment + feedback):**
-- [Add the specific feedback your teacher gave here.]
+- [Add a concrete improvement — e.g. accessibility audit, Lighthouse performance pass.]
 - [Concrete improvement #2.]
 - [Concrete improvement #3.]
 
