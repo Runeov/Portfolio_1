@@ -19,14 +19,9 @@ Portfolio 1
 
 | Project | GitHub repository | Live website |
 |---|---|---|
-| Rainydays (Cross Course Project) | https://github.com/Runeov/HTML-CSS-Course-Assignment | https://magical-genie-a5c987.netlify.app/ |
+| Contagious Coffee (Cross Course Project) | https://github.com/Runeov/HTML-CSS-Course-Assignment | https://magical-genie-a5c987.netlify.app/ |
 | Semester Project 1 (Hiking) | https://github.com/Runeov/Hiking-project-new | https://guileless-salmiakki-0c085e.netlify.app/ |
 | NorgeTravel | https://github.com/Runeov/norgetravel | https://norgetravel.com |
-
-> **⚠️ Check before submitting:** The assignment requires the third project to be your
-> graded **Exam Project 1**. NorgeTravel (a Next.js travel site) is shown in that slot —
-> confirm with your teacher that this is acceptable, or swap in your actual graded Exam
-> Project 1.
 
 ---
 
@@ -39,10 +34,10 @@ more skills, including the changes prompted by my teachers' feedback.
 
 ---
 
-## 1. Rainydays — Cross Course Project
+## 1. Contagious Coffee — Cross Course Project
 
-**What it is:** A responsive e-commerce store for outdoor rainwear, hand-coded from a
-Figma design using semantic HTML and CSS.
+**What it is:** A coffee-shop website for Contagious Coffee that helps customers find
+their nearest café, hand-coded with semantic HTML and CSS.
 
 **Reflection:** This was where I learned to translate a visual design into structured,
 semantic markup and to keep my CSS organised so styles stayed predictable across pages.
