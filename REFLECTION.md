@@ -1,66 +1,98 @@
-# Portfolio 1 — Reflection
+# Portfolio 1 — Reflection Report
 
 **Rune Øvstegård**
-Frontend Development, Noroff
+Frontend Development — Noroff
 Portfolio 1
 
-> Draft reflection text. Personalise the bracketed parts, then export to PDF
-> (e.g. open in VS Code → "Markdown PDF" extension, or paste into Google Docs → Download as PDF).
+> This is the draft for the reflection PDF required by the assignment. Fill in the
+> `[bracketed]` parts (live links + the specific teacher feedback for each project),
+> then export to PDF (VS Code "Markdown PDF" extension, or paste into Google Docs →
+> File → Download → PDF). The assignment requires that all project links appear in
+> this document as well as on the portfolio site.
+
+---
+
+## All links
+
+- **Portfolio website (live):** [https://_____.vercel.app]( )
+- **Personal GitHub profile (public):** https://github.com/Runeov
+
+| Project | GitHub repository | Live website |
+|---|---|---|
+| Rainydays (Cross Course Project) | https://github.com/Runeov/HTML-CSS-Course-Assignment | [live link] |
+| Semester Project 1 (Hiking) | https://github.com/Runeov/Hiking-project-new | [live link] |
+| Exam Project 1 | [repo link — see note below] | [live link] |
+
+> **Note:** Exam Project 1 needs its **own** repository and live link. The card on the
+> site currently points to the Hiking repo as a placeholder — replace it with the real
+> Project Exam 1 repo before submitting.
 
 ---
 
 ## Introduction
 
-This portfolio brings together the projects I have built so far in the Noroff
-Frontend Development program. The goal of Portfolio 1 was not only to present
-finished work, but to show how I have grown as a developer — from my very first
-lines of HTML and CSS to thinking about structure, responsiveness, and the
-person who will actually use what I build.
+This portfolio is a self-assessment of three graded projects from my first year in the
+Noroff Frontend Development programme. For each project I describe what I built, what I
+learned, and — most importantly — the concrete improvements I would make now that I have
+more skills, including the changes prompted by my teachers' feedback.
 
-## The projects
+---
 
-**Rainydays** was my course assignment in HTML and CSS, where I turned a Figma
-design into a working e-commerce concept for outdoor rainwear. The main lesson
-here was translating a visual design into semantic, well-structured markup, and
-keeping my CSS organised so that styles stayed predictable across pages.
+## 1. Rainydays — Cross Course Project
 
-**The Hiking Project** (Semester Project 1) pushed me to plan a multi-page site
-and think about layout on different screen sizes. I focused on mobile-first,
-accessible layouts and tried to reuse components instead of repeating code.
+**What it is:** A responsive e-commerce store for outdoor rainwear, hand-coded from a
+Figma design using semantic HTML and CSS.
 
-**Project Exam 1** was my first exam project. It pulled the earlier skills
-together into one complete, deployable site and taught me how much a clear plan
-up front saves time later.
+**Reflection:** This was where I learned to translate a visual design into structured,
+semantic markup and to keep my CSS organised so styles stayed predictable across pages.
 
-## What I learned
+**Things I would improve (self-assessment + feedback):**
+- [Add the specific feedback your teacher gave — e.g. heading hierarchy, image
+  optimisation, form validation.]
+- Optimise and compress product images so pages load faster.
+- Improve accessibility: clearer focus states, better colour contrast, descriptive `alt`
+  text.
+- Refactor repeated CSS into reusable classes / custom properties.
 
-- **Plan before coding.** Breaking a design into components and deciding on
-  naming conventions early made my code far easier to extend and debug.
-- **Semantic HTML and accessibility matter.** Using the right elements and
-  meaningful `alt` text makes a site usable for more people and easier to
-  maintain.
-- **Responsive design is a habit, not an afterthought.** Testing across screen
-  sizes as I built — rather than at the end — caught problems early.
-- **Consistency is a feature.** Consistent spacing, colours, and naming make a
-  project feel finished and professional.
+---
 
-## Challenges
+## 2. Hiking Project — Semester Project 1
 
-[Describe one or two concrete challenges — for example: getting the CSS grid to
-behave on small screens, matching the Figma spacing exactly, or organising
-files so the project stayed maintainable. Say what you tried and how you solved
-it.]
+**What it is:** A multi-page site for hiking enthusiasts, built mobile-first with
+accessible layouts and reusable components.
 
-## What I would improve
+**Reflection:** This project pushed me to plan a multi-page site, think about responsive
+behaviour across screen sizes, and reuse components instead of repeating code.
 
-- Replace placeholder images with real screenshots of each project.
-- Add live deployment links once each project is hosted.
-- Strengthen my JavaScript so interactions are richer and more dynamic.
-- Run an accessibility and performance pass (contrast, alt text, image sizes).
+**Things I would improve (self-assessment + feedback):**
+- [Add the specific feedback your teacher gave here.]
+- Tighten responsive breakpoints so layouts hold up on small and large screens.
+- Add meaningful `alt` text and ARIA where needed for accessibility.
+- Reduce duplicated markup by componentising repeated sections.
+
+---
+
+## 3. Exam Project 1
+
+**What it is:** My first exam project, combining responsive design, semantic HTML, and a
+clean CSS architecture into one complete, deployable site.
+
+**Reflection:** This brought my earlier skills together into one finished, deployable
+project and showed me how much a clear plan up front saves time later.
+
+> Reminder: the assignment says not to change the Exam Project 1 submission other than the
+> `README.md`, since it may still be getting marked.
+
+**Things I would improve (self-assessment + feedback):**
+- [Add the specific feedback your teacher gave here.]
+- [Concrete improvement #2.]
+- [Concrete improvement #3.]
+
+---
 
 ## Conclusion
 
-Building this portfolio showed me how far I have come since starting the
-program, and made my next goals clear: deeper JavaScript, stronger
-accessibility, and cleaner, more reusable code. I am proud of the progress these
-projects represent and excited to keep building on it.
+Comparing these three projects shows how far I have come: from first writing semantic HTML
+to thinking about responsiveness, accessibility, reusable code, and the end user. My next
+goals are to deepen my JavaScript, strengthen accessibility, and keep my code cleaner and
+more reusable.
